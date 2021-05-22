@@ -27,11 +27,4 @@ Hi, I'm Hesham Ouda, a passionate self-taught developer from Swizerland.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshamouda&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
- 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heshamouda&repo=github-readme-stats&theme=material-palenight" />
-</a>     
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heshamouda&repo=heshamouda.github.io&theme=material-palenight" />
-</a>
+
